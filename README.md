@@ -25,7 +25,8 @@ projects.
 
 ### Bembix
 
-- Generated `Bembix` keys and comparison notes should go in `keys/bembix/`.
+- [Checklist of California `Bembix` species and Santa Barbara County relevance](checklists/bembix/california.md)
+- [California `Bembix` female foreleg-spine comparison and short key](keys/bembix/california-foreleg-spines.md)
 
 ## References
 
