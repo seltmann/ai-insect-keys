@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 700" role="img" aria-labelledby="title desc">
+  <title id="title">Bifid male Bembix sternite VI schematic</title>
+  <desc id="desc">Schematic ventral view of male Bembix sternite VI showing a posterior median process split into two apical tips.</desc>
+
+  <rect width="1100" height="700" fill="#f7f4ec"/>
+
+  <text x="56" y="58" style="font-family:Arial,Helvetica,sans-serif;font-size:34px;font-weight:700;fill:#1f2328">Bifid S6: split apex on sternite VI</text>
+  <text x="56" y="94" style="font-family:Arial,Helvetica,sans-serif;font-size:19px;fill:#6b6256">Ventral view. The S6 median projection is bifid when its apex divides into two terminal tips.</text>
+
+  <rect x="56" y="135" width="460" height="505" rx="8" fill="#fffdf7" stroke="#c8bda7" stroke-width="3"/>
+  <text x="88" y="178" style="font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:700;fill:#1f2328">Whole S6</text>
+  <text x="88" y="207" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#6b6256">Posterior edge faces downward</text>
+
+  <path d="M145 275 C200 220 372 220 427 275 C490 340 476 468 408 523 C350 570 220 570 162 523 C94 468 82 340 145 275 Z"
+        fill="#f8d987" stroke="#1f2328" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M214 514 L236 617 L285 534 L334 617 L356 514"
+        fill="none" stroke="#1f2328" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M214 514 C250 527 320 527 356 514"
+        fill="none" stroke="#1f2328" stroke-width="4" stroke-linecap="round"/>
+  <text x="267" y="395" style="font-family:Arial,Helvetica,sans-serif;font-size:28px;font-weight:700;fill:#1f2328">S6</text>
+  <text x="180" y="655" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#1f2328">median projection split into two tips</text>
+
+  <path d="M410 575 C449 555 468 535 487 501" fill="none" stroke="#1f2328" stroke-width="5" stroke-linecap="round"/>
+  <path d="M487 501 L487 526 L466 512 Z" fill="#1f2328"/>
+
+  <rect x="585" y="135" width="460" height="505" rx="8" fill="#fffdf7" stroke="#c8bda7" stroke-width="3"/>
+  <text x="617" y="178" style="font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:700;fill:#1f2328">Apex Detail</text>
+  <text x="617" y="207" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#6b6256">Look for a real notch between two lobes</text>
+
+  <path d="M730 260 C758 323 776 386 790 464"
+        fill="none" stroke="#1f2328" stroke-width="14" stroke-linecap="round"/>
+  <path d="M900 260 C872 323 854 386 840 464"
+        fill="none" stroke="#1f2328" stroke-width="14" stroke-linecap="round"/>
+  <path d="M790 464 L815 404 L840 464"
+        fill="none" stroke="#1f2328" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M815 404 L815 505" fill="none" stroke="#9b7616" stroke-width="5" stroke-linecap="round" stroke-dasharray="10 10"/>
+  <text x="792" y="538" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#9b7616">central notch</text>
+
+  <circle cx="790" cy="464" r="12" fill="#f3bf45" stroke="#1f2328" stroke-width="3"/>
+  <circle cx="840" cy="464" r="12" fill="#f3bf45" stroke="#1f2328" stroke-width="3"/>
+  <text x="685" y="430" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#1f2328">tip 1</text>
+  <text x="905" y="430" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#1f2328">tip 2</text>
+
+  <path d="M724 426 L776 458" fill="none" stroke="#1f2328" stroke-width="4" stroke-linecap="round"/>
+  <path d="M776 458 L753 457 L765 438 Z" fill="#1f2328"/>
+  <path d="M903 426 L854 458" fill="none" stroke="#1f2328" stroke-width="4" stroke-linecap="round"/>
+  <path d="M854 458 L877 457 L865 438 Z" fill="#1f2328"/>
+
+  <rect x="625" y="572" width="390" height="42" rx="8" fill="#fff7d8" stroke="#9b7616" stroke-width="3"/>
+  <text x="648" y="599" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#1f2328">Bifid = one S6 process ending in two apical tips.</text>
+</svg>

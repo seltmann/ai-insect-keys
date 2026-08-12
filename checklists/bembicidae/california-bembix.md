@@ -2,6 +2,10 @@
 
 Last updated: 2026-07-31
 
+Repository note: this is now a genus-level `Bembix` checklist inside the
+broader Bembicidae workspace. For the family-level eastern-Sierra scope, use
+`checklists/bembicidae/eastern-sierra-working-list.md`.
+
 ## Scope
 
 This is a working checklist of California species of `Bembix` for the
@@ -80,13 +84,13 @@ rather than the mainland, `Bembix americana hamata` becomes important.
 
 Bohart, R. M., and D. S. Horning, Jr. 1971. `California Bembicine Sand Wasps`.
 `Bulletin of the California Insect Survey` 13:1-49. Local reference file:
-`references/bembix/Bohart-Horning-1971-California-bembicine-sand-wasps.pdf`.
+`references/bembicidae/Bohart-Horning-1971-California-bembicine-sand-wasps.pdf`.
 https://essig.berkeley.edu/documents/cis/cis13.pdf
 
 Griswold, T. L. 1983. A new species of `Bembix` from Lower California
 (Hymenoptera: Sphecidae). `Pan-Pacific Entomologist` 59(1-4):103-107. Local
 reference file:
-`references/bembix/Griswold-1983-Bembix-boharti-Lower-California.pdf`.
+`references/bembicidae/Griswold-1983-Bembix-boharti-Lower-California.pdf`.
 https://archive.org/details/biostor-245523
 
 Kimsey, L. S., and R. B. Kimsey. 1981. A new species of `Bembix` from the
@@ -101,7 +105,7 @@ https://www.jstor.org/stable/25084208
 
 Pulawski, W. J. 2026. Catalog of Sphecidae sensu lato: `Bembix`. California
 Academy of Sciences. Last updated 29 July 2026. Local reference file:
-`references/bembix/Pulawski-2026-Bembix-catalog.pdf`.
+`references/bembicidae/Pulawski-2026-Bembix-catalog.pdf`.
 https://researcharchive.calacademy.org/research/entomology/entomology_resources/hymenoptera/sphecidae/genera/Bembix.pdf
 
 Rust, R. W., A. S. Menke, and D. R. Miller. 1985. A biogeographic comparison

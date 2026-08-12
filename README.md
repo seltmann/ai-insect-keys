@@ -7,6 +7,7 @@ projects.
 
 - `keys/<taxon>/`: generated keys, comparison tables, and identification notes.
 - `checklists/<taxon>/`: working species lists and occurrence summaries.
+- `html/<taxon>/`: rendered static HTML versions of selected keys and notes.
 - `references/`: local-only source PDFs, extracted text, rendered pages, and
   source notes. This folder is intentionally ignored by Git so reference
   material can stay out of GitHub.
@@ -17,16 +18,34 @@ projects.
 
 - [Possible `Anthidium` species from coastal Santa Barbara County, California](checklists/anthidium/coastal-santa-barbara-county.md)
 
+### Broad Sphecidae / spheciform wasps
+
+- [Working California broad-Sphecidae scope with Dangermond and Eastern Sierra flags](checklists/broad-sphecidae/eastern-sierra-and-dangermond-scope.md)
+
+### Bembicidae
+
+- [Eastern Sierra Bembicidae working list](checklists/bembicidae/eastern-sierra-working-list.md)
+- [Checklist of California `Bembix` species](checklists/bembicidae/california-bembix.md)
+
 ## Keys
 
 ### Anthidium
 
 - [Key to candidate `Anthidium` species from coastal Santa Barbara County, California](keys/anthidium/coastal-santa-barbara-county.md)
 
-### Bembix
+### Broad Sphecidae / spheciform wasps
 
-- [Checklist of California `Bembix` species and Santa Barbara County relevance](checklists/bembix/california.md)
-- [California `Bembix` female foreleg-spine comparison and short key](keys/bembix/california-foreleg-spines.md)
+- [California broad-Sphecidae family key and field-screen notes](keys/broad-sphecidae/california-family-key.md)
+- [DOCX-derived California broad-Sphecidae family key and 90-genera list](keys/broad-sphecidae/california-family-key-and-genera.md)
+- [DOCX-derived small keys to California broad-Sphecidae genera by tribe](keys/broad-sphecidae/california-genus-keys-by-tribe.md)
+- [Direct key to the California genera of Sphecidae](keys/broad-sphecidae/california-sphecidae-direct-genus-key.md)
+- [Rendered broad-Sphecidae HTML pages](html/broad-sphecidae/index.html)
+
+### Bembicidae
+
+- [California Bembicidae genus key](keys/bembicidae/california-genera-key.md)
+- [California `Bembix` female foreleg-spine comparison and short key](keys/bembicidae/california-bembix-foreleg-spines.md)
+- [Rendered Bembicidae HTML pages](html/bembicidae/index.html)
 
 ## References
 

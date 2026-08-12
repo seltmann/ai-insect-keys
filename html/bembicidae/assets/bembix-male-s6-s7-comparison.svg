@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Male Bembix S6 and S7 comparison schematic</title>
+  <desc id="desc">Schematic ventral comparison of male Bembix sternite VI and sternite VII, showing that S6 is the larger anterior plate with the posterior projection and S7 is the smaller plate behind it.</desc>
+
+  <rect width="1200" height="760" fill="#f7f4ec"/>
+
+  <text x="60" y="58" style="font-family:Arial,Helvetica,sans-serif;font-size:34px;font-weight:700;fill:#1f2328">Male Bembix S6 compared with S7</text>
+  <text x="60" y="92" style="font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#6b6256">Ventral view. S6 is anterior to S7 and carries the key projection; S7 is the smaller terminal sternite behind it.</text>
+
+  <rect x="55" y="130" width="350" height="570" rx="8" fill="#fffdf7" stroke="#c8bda7" stroke-width="3"/>
+  <text x="85" y="174" style="font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:700;fill:#1f2328">Terminal sternites</text>
+  <text x="85" y="203" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#6b6256">Posterior end is downward</text>
+
+  <ellipse cx="230" cy="310" rx="112" ry="58" fill="none" stroke="#1f2328" stroke-width="3"/>
+  <text x="217" y="319" style="font-family:Arial,Helvetica,sans-serif;font-size:18px;fill:#1f2328">S4</text>
+  <ellipse cx="230" cy="390" rx="105" ry="55" fill="none" stroke="#1f2328" stroke-width="3"/>
+  <text x="217" y="399" style="font-family:Arial,Helvetica,sans-serif;font-size:18px;fill:#1f2328">S5</text>
+  <ellipse cx="230" cy="475" rx="112" ry="60" fill="#f3bf45" stroke="#1f2328" stroke-width="4"/>
+  <path d="M198 527 L211 571 L230 536 L249 571 L262 527" fill="none" stroke="#1f2328" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="211" y="486" style="font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#1f2328">S6</text>
+  <ellipse cx="230" cy="610" rx="62" ry="47" fill="#d9e7ea" stroke="#1f2328" stroke-width="4"/>
+  <path d="M198 599 L211 583 L224 601 L238 582 L252 599" fill="none" stroke="#1f2328" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="215" y="621" style="font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:700;fill:#1f2328">S7</text>
+
+  <path d="M345 520 C330 535 303 550 266 562" fill="none" stroke="#1f2328" stroke-width="4" stroke-linecap="round"/>
+  <path d="M266 562 L288 564 L278 543 Z" fill="#1f2328"/>
+  <rect x="286" y="485" width="94" height="64" rx="8" fill="#fff7d8" stroke="#9b7616" stroke-width="3"/>
+  <text x="305" y="510" style="font-family:Arial,Helvetica,sans-serif;font-size:15px;fill:#1f2328">S6</text>
+  <text x="305" y="532" style="font-family:Arial,Helvetica,sans-serif;font-size:15px;fill:#1f2328">projection</text>
+
+  <rect x="440" y="130" width="315" height="570" rx="8" fill="#fffdf7" stroke="#c8bda7" stroke-width="3"/>
+  <text x="470" y="174" style="font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:700;fill:#1f2328">S6</text>
+  <text x="470" y="203" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#6b6256">Larger anterior plate</text>
+  <path d="M482 315 C520 275 675 275 714 315 C758 360 752 461 707 505 C663 548 535 548 491 505 C446 461 438 360 482 315 Z" fill="#f8d987" stroke="#1f2328" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M550 501 L575 614 L598 545 L621 614 L646 501" fill="none" stroke="#1f2328" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="580" y="422" style="font-family:Arial,Helvetica,sans-serif;font-size:26px;font-weight:700;fill:#1f2328">S6</text>
+  <path d="M694 596 C670 582 637 582 617 594" fill="none" stroke="#1f2328" stroke-width="4" stroke-linecap="round"/>
+  <path d="M617 594 L640 600 L634 577 Z" fill="#1f2328"/>
+  <text x="495" y="648" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#1f2328">Score the posterior projection here.</text>
+  <text x="495" y="675" style="font-family:Arial,Helvetica,sans-serif;font-size:15px;fill:#6b6256">Forked apex keeps you in the amoena/sayi route.</text>
+
+  <rect x="790" y="130" width="355" height="570" rx="8" fill="#fffdf7" stroke="#c8bda7" stroke-width="3"/>
+  <text x="820" y="174" style="font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:700;fill:#1f2328">S7</text>
+  <text x="820" y="203" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#6b6256">Smaller terminal sternite behind S6</text>
+  <ellipse cx="965" cy="405" rx="112" ry="82" fill="#d9e7ea" stroke="#1f2328" stroke-width="4"/>
+  <path d="M895 402 L920 363 L945 407 L970 355 L997 407 L1022 363 L1047 402" fill="none" stroke="#1f2328" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M965 335 L965 475" fill="none" stroke="#1f2328" stroke-width="4" stroke-linecap="round"/>
+  <text x="947" y="426" style="font-family:Arial,Helvetica,sans-serif;font-size:26px;font-weight:700;fill:#1f2328">S7</text>
+  <text x="842" y="548" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#1f2328">Your "5 points" note belongs here if the</text>
+  <text x="842" y="575" style="font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#1f2328">points are on the terminal sternite itself.</text>
+  <text x="842" y="627" style="font-family:Arial,Helvetica,sans-serif;font-size:15px;fill:#6b6256">Keep this separate from the S6 fork or spine.</text>
+
+  <line x1="60" y1="720" x2="1140" y2="720" stroke="#1f2328" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="60" y="746" style="font-family:Arial,Helvetica,sans-serif;font-size:15px;fill:#6b6256">Schematic only. Sternites are ventral plates; tergite VII is on the dorsal side and is a different character.</text>
+</svg>
