@@ -1,6 +1,6 @@
 # California broad-Sphecidae family key and field-screen notes
 
-Last updated: 2026-08-10
+Last updated: 2026-08-27
 
 ## Scope
 
@@ -55,21 +55,12 @@ claw teeth and plantulae, may require 50-100x magnification.
 This screen follows the family-character discussion in Bohart and Menke (1976,
 pp. 27-28).
 
-1. Pronotum broadly reaches or touches the tegula, forewings often folded
-   lengthwise at rest, eyes usually deeply emarginate. -> Vespidae, not broad
-   Sphecidae.
-
-1'. Pronotal lobe separated from the tegula; forewings not folded by the
-    vespid mechanism. -> 2
-
-2. Pronotum mobile over the scutum, posterior margin concave or obtusely
-   angled, pronotal lobe close to or touching the tegula; metatibia with two
-   apical spurs. -> Pompilidae, not broad Sphecidae.
-
-2'. Pronotum essentially fixed to the mesothorax, posterior margin forming a
-    nearly transverse collar and usually separated from the scutum by a
-    constriction; pronotal lobe well separated from the tegula. -> Broad
-    Sphecidae / spheciform Apoidea.
+| Couplet | Character state | Go to / result |
+| --- | --- | --- |
+| 1a | Pronotum broadly reaches or touches the tegula, forewings often folded lengthwise at rest, eyes usually deeply emarginate. | Vespidae, not broad Sphecidae |
+| 1b | Pronotal lobe separated from the tegula; forewings not folded by the vespid mechanism. | 2 |
+| 2a | Pronotum mobile over the scutum, posterior margin concave or obtusely angled, pronotal lobe close to or touching the tegula; metatibia with two apical spurs. | Pompilidae, not broad Sphecidae |
+| 2b | Pronotum essentially fixed to the mesothorax, posterior margin forming a nearly transverse collar and usually separated from the scutum by a constriction; pronotal lobe well separated from the tegula. | Broad Sphecidae / spheciform Apoidea |
 
 ## California broad-Sphecidae family key
 
@@ -78,78 +69,35 @@ the diagnostic characters in Bohart and Menke (1976, especially pp. 57-61).
 Counts in parentheses are working California genus counts from the shared
 checklist notes, not audited species counts.
 
-1. First metasomal segment forming a true sternal petiole: the tubular basal
-   segment is sternum I, with tergum I displaced to the distal end; hind wing
-   with large jugal lobe and anal vein. -> Sphecidae, restricted modern sense
-   (10 California genera)
+| Couplet | Character state | Go to / family |
+| --- | --- | --- |
+| 1a | Hind-wing jugal lobe large, occupying more than half the area behind the claval notch; metasoma with a cylindrical petiole formed by sternum I alone, with tergum I displaced to the distal end of the petiole. | Sphecidae, restricted modern sense (10 California genera) |
+| 1b | Jugal lobe smaller, or metasoma sessile, or petiole composed of both tergum and sternum. | 2 |
+| 2a | Mid tibia with two apical spurs; tarsal claws toothed or cleft along the inner margin; hind-wing jugal lobe small or absent. | Ampulicidae (1 California genus) |
+| 2b | Tarsal claws simple, or specimen lacking the complete combination above. | 3 |
+| 3a | Mid tibia with two apical spurs. | 4 |
+| 3b | Mid tibia with one apical spur. | 7 |
+| 4a | Mandible with a distinct tooth, notch, or step on the outer-ventral margin; hind-wing jugal lobe much less than half the anal area; metasoma sessile; small southwestern wasp. | Mellinidae, `Xenosphex` route |
+| 4b | Mandible without a distinct outer-ventral notch or tooth. | 5 |
+| 5a | Hind-wing jugal lobe more than half the anal area; hind-wing vein M diverging from M+Cu before cu-a; metasoma sessile; forewing normally with three submarginal cells. | Astatidae (3 California genera) |
+| 5b | Hind-wing jugal lobe less than half the anal area. | 6 |
+| 6a | Metasoma conspicuously pedunculate; hind-wing vein M diverging well before cu-a; forewing with three submarginal cells; usually a slender yellow-marked fly hunter. | Mellinidae, `Mellinus` route |
+| 6b | Metasoma usually sessile or only shortly petiolate; not with the complete combination above. | Bembicidae, two-spurred lineages |
+| 7a | Forewing with three submarginal cells; metasoma distinctly petiolate, with the petiole formed principally by sternum I; antennal sockets high on the face; stigma smaller than the first discal cell. | Psenidae (5 California genera) |
+| 7b | Forewing with fewer than three submarginal cells, or metasoma not with this combination. | 8 |
+| 8a | Forewing usually with one or two submarginal cells, occasionally with cells partly open; stigma conspicuously enlarged, approaching or exceeding the first discal cell in area; one recurrent vein; wasps generally small to minute. | 9 |
+| 8b | Stigma distinctly smaller than the first discal cell, or forewing with more complete venation; wasps usually not with the preceding combination. | 10 |
+| 9a | Omaulus absent; no sulcus descending directly from beneath the posterior end of the pronotal lobe; episternal sulcus begins beneath the wing at the subalar fossa; forewing with one recurrent vein and only one or two discoidal cells; commonly about 2-5 mm. | Ammoplanidae (9 California genera) |
+| 9b | Omaulus present, or a mesopleural sulcus descends from beneath the posterior end of the pronotal lobe; forewing sometimes with three discoidal cells and a smaller stigma; size minute to moderate. | Pemphredonidae (5 California genera) |
+| 10a | Mandibular socket closed by extension of the hypostoma; antennal sockets usually clearly separated from and well above the clypeal margin; forewing ordinarily with three submarginal cells; metasoma usually robust or moderately elongate. | Philanthidae (5 California genera) |
+| 10b | Mandibular socket usually open, or specimen otherwise lacking the preceding combination. | 11 |
+| 11a | At least one of the following present: an oblique scutal carina extending inward from near the posterior margin of the tegula; sternum I with paired basal ridges or a median ridge that forks posteriorly; lateral ocelli reduced, distorted, recessed, or scar-like, often with a conspicuously exposed labrum; or the prestigmal part of the first submarginal cell exceptionally long. | Bembicidae (26 California genera) |
+| 11b | Oblique scutal carina absent; sternum I without a forked basal ridge; ocelli normally developed; labrum usually transverse and wider than long; when three submarginal cells are present, vein 2m-cu enters the second submarginal cell. | Crabronidae (24 California genera) |
 
-1'. Metasoma sessile, subsessile, or with a petiole made from tergal plus
-    sternal elements; hind-wing jugal lobe absent, small, or not combined with
-    a true sternal petiole. -> 2
-
-2. Mid tibia with two apical spurs; tarsal claws toothed or cleft; hind-wing
-   jugal lobe small or absent. -> 3
-
-2'. Mid tibia with one apical spur. -> 7
-
-3. Small southwestern wasp with mandible distinctly notched, toothed, or
-   stepped on the outer-ventral margin. -> Mellinidae, `Xenosphex` route
-
-3'. Mandible without that outer-ventral notch or step. -> 4
-
-4. Hind-wing jugal lobe longer than half the anal area; hind-wing M before
-   cu-a; metasoma sessile; forewing usually with three submarginal cells. ->
-   Astatidae (3 California genera)
-
-4'. Hind-wing jugal lobe shorter than half the anal area or otherwise not as
-    above. -> 5
-
-5. Metasoma distinctly pedunculate; hind-wing M before cu-a; forewing with
-   three submarginal cells; slender fly hunter, often with yellow markings. ->
-   Mellinidae, `Mellinus` route
-
-5'. Metasoma not as above, or combination of characters different. -> 6
-
-6. Two-spurred bembicid routes, principally Alyssonini, Nyssonini, and portions
-   of Gorytini and related groups. -> Bembicidae, part (26 California genera
-   total)
-
-7. Forewing with three submarginal cells; distinct petiole principally sternum
-   I; antennal sockets high on face; stigma smaller than first discal cell. ->
-   Psenidae (5 California genera)
-
-7'. Character combination otherwise. -> 8
-
-8. Forewing with one or two submarginal cells; stigma enlarged, near or
-   exceeding first discal cell area; one recurrent vein; usually small to
-   minute. -> 9
-
-8'. Forewing, stigma, and recurrent-vein combination otherwise. -> 10
-
-9. Omaulus absent; no sulcus beneath posterior pronotal lobe; episternal sulcus
-   arising from subalar fossa; one recurrent vein and one or two discoidal
-   cells; usually about 2-5 mm. -> Ammoplanidae (9 California genera)
-
-9'. Omaulus present or mesopleural sulcus descends from beneath posterior
-    pronotal lobe; sometimes with three discoidal cells or a smaller stigma. ->
-    Pemphredonidae (5 California genera)
-
-10. Mandibular socket closed by extension of the hypostoma; antennal sockets
-    above the clypeal margin; forewing usually with three submarginal cells;
-    body robust to moderate. -> Philanthidae (5 California genera)
-
-10'. Mandibular socket not closed in that way, or character combination
-     otherwise. -> 11
-
-11. Oblique scutal carina present, or sternum I with paired basal ridges or a
-    forked median ridge, or ocelli reduced/distorted/recessed, or labrum
-    exposed, or prestigmal portion of first submarginal cell exceptionally
-    long. -> Bembicidae (26 California genera total)
-
-11'. Oblique scutal carina absent; sternum I without forked basal ridge; ocelli
-     normal; labrum transverse and wider than long; if three submarginal cells
-     are present, 2m-cu enters the second submarginal cell. -> Crabronidae
-     (24 California genera)
+Difficult endpoints. The most delicate family separations are Ammoplanidae
+versus minute Pemphredonidae, two-spurred Bembicidae versus Astatidae or
+Mellinidae, and one-spurred Bembicidae versus Crabronidae. Confirm these with
+detailed subfamily or genus keys.
 
 ## Sexing spheciform wasps
 

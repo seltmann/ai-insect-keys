@@ -14,6 +14,10 @@ projects.
 
 ## Checklists
 
+### Bees
+
+- [Working bee genera list for Dangermond Preserve and nearby mainland context](checklists/bees/dangermond-bee-genera.md)
+
 ### Anthidium
 
 - [Possible `Anthidium` species from coastal Santa Barbara County, California](checklists/anthidium/coastal-santa-barbara-county.md)
@@ -28,6 +32,10 @@ projects.
 - [Checklist of California `Bembix` species](checklists/bembicidae/california-bembix.md)
 
 ## Keys
+
+### Bees
+
+- [Identification table and working key to Dangermond bee genera](keys/bees/dangermond-bee-genera-key.md)
 
 ### Anthidium
 
